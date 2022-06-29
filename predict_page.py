@@ -41,4 +41,4 @@ def show_predict_page(): #Here we build our streamlit app
 		X = X.astype(float)
 
 		salary = regressor.predict(X)
-		st.subheader(f"The estimated salary is ${salary[0][0]:.2f}")
+		st.subheader(f"The estimated salary is ${salary[0]:.2f}")
