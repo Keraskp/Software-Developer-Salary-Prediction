@@ -10,3 +10,8 @@ Libraries Used :
 - Streamlit
 
 Deployed on heroku 
+
+### Preview :
+![Predict Page](./images/predict.png)
+
+![Explore Page](./images/explore.png)
