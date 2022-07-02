@@ -52,7 +52,7 @@ df = load_data()
 def show_explore_page():
 	st.title("Explore Software Engineer Salaries")
 	st.write("""
-		### Stack Overflow Developer Survey 2020
+		### Stack Overflow Developer Survey 2021
 		""")
 
 	data = df['Country'].value_counts()
