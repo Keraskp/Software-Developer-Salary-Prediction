@@ -1,8 +1,12 @@
 # Software-Developer-Salary-Prediction
-A Machine Learning Web-App to predict salary of a Software Developer in different countries. 
-[Click Here](https://devsalaryprediction.herokuapp.com/)
+A Machine Learning Web-App to predict salaries of Software Developers in different countries. 
+
+Link to Web App : [https://devsalaryprediction.herokuapp.com/](https://devsalaryprediction.herokuapp.com/)
 
 Dataset : StackOverflow Developer Survey 2021 Dataset.
+
+**Languages Used :**
+<p> <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></p>
 
 **Libraries Used :** 
 <p>
@@ -19,7 +23,7 @@ Dataset : StackOverflow Developer Survey 2021 Dataset.
 - Streamlit
 
 
-The Web App was made with Streamlit and Deployed on Heroku
+The Web App was made with [Streamlit](https://streamlit.io/) and Deployed on [Heroku](https://dashboard.heroku.com/)
 
 **For Users :**
 
@@ -29,11 +33,20 @@ The Web App was made with Streamlit and Deployed on Heroku
 
 ---
 
-### Preview :
+## Preview :
+### Predict Page :
 ![Predict Page](./images/predict.png)
+
+---
+
+### Explore Page :
 
 ![Explore Page](./images/explore.png)
 
+<br>
+
 ![Explore Page1](./images/explore_1.png)
+
+<br>
 
 ![Explore Page2](./images/explore_2.png)
