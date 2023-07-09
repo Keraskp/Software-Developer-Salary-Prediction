@@ -1,4 +1,4 @@
-# Salary Predictor Web App
+# SDE Predictor Web App
 
 This is a Streamlit web application built with Python that predicts the salaries of software developers in different countries. The application utilizes machine learning algorithms to estimate the potential earnings based on various factors such as experience, education, programming languages, and location.
 
@@ -24,7 +24,7 @@ Dataset : StackOverflow Developer Survey 2021 Dataset.
 - Streamlit
 
 
-The Web App was made with [Streamlit](https://streamlit.io/) and Deployed on [Heroku](https://dashboard.heroku.com/)
+The Web App was made with [Streamlit](https://streamlit.io/) and Deployed on [Render](https://render.com/)
 
 **For Users :**
 
@@ -79,7 +79,6 @@ The Salary Predictor Web App requires the following input parameters to estimate
 - Experience (in years): The number of years of professional experience the software developer has.
 - Education Level: The highest level of education attained by the software developer.
 - Country: The country in which the developer is seeking employment.
-- Programming Languages: The programming languages the developer is proficient in. Multiple languages can be selected.
 
 ## Model
 
