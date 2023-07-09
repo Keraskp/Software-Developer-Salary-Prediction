@@ -1,4 +1,4 @@
-# SDE Predictor Web App
+# SDE Salary Predictor Web App
 
 This is a Streamlit web application built with Python that predicts the salaries of software developers in different countries. The application utilizes machine learning algorithms to estimate the potential earnings based on various factors such as experience, education, programming languages, and location.
 
