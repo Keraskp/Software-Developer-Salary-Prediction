@@ -1,7 +1,7 @@
 # Software-Developer-Salary-Prediction
 A Machine Learning Web-App to predict salaries of Software Developers in different countries. 
 
-Link to Web App : [https://devsalaryprediction.herokuapp.com/](https://devsalaryprediction.herokuapp.com/)
+Link to Web App : [https://sde-salary-prediction.onrender.com](https://sde-salary-prediction.onrender.com)
 
 Dataset : StackOverflow Developer Survey 2021 Dataset.
 
